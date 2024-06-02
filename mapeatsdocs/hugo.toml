@@ -1,0 +1,8 @@
+baseURL = 'https://mapeatdocs.org/'
+languageCode = 'en-us'
+title = 'Documentación de MapEat'
+theme = 'hugo-book'
+
+[params]
+    BookMenuBundle = "/menu"
+    BookLogo = 'logo.png'

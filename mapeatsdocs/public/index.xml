@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentación de MapEat</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Documentación de MapEat</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción</title>
+      <link>http://localhost:1313/docs/introduction/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/introduction/</guid>
+      <description>Introducción&#xD;#&#xD;MapEat es una aplicación móvil usada para poder guardar tus sitios favoritos de restauración en tu cuenta, y así tener acceso a ellos desde cualquier sitio. MapEat es una aplicación pensada para que lo use todo tipo de usuarios, siempre adaptándose a las necesitades que este tenga.&#xA;Actualmente la aplicación se encuentra en una fase de protipado funcional. Funciona correctamente, pero hay algunos aspectos que todavía están a mejorar para futuro.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/sign-in-out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/sign-in-out/</guid>
+      <description>Login y Registro&#xD;#&#xD;Para poder usar la aplicación será necesario registrar una nueva cuenta.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/prueba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/prueba/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

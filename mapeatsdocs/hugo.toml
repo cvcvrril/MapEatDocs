@@ -1,4 +1,4 @@
-baseURL = 'https://mapeatdocs.org/'
+baseURL = 'https://cvcvrril.github.io/MapEatDocs/'
 languageCode = 'en-us'
 title = 'Documentación de MapEat'
 theme = 'hugo-book'
